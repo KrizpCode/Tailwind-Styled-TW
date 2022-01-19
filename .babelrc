@@ -1,8 +1,8 @@
 {
-  "presets": ["next/babel"],
-  "plugins": [
-    ["styled-components", { "ssr": true }],
-    ["babel-plugin-twin", { "debug": false }],
-    "babel-plugin-macros"
-  ]
+    "presets": ["next/babel"],
+    "plugins": [
+        ["styled-components", { "ssr": true }],
+        ["babel-plugin-twin", { "debug": false }],
+        "babel-plugin-macros"
+    ]
 }
